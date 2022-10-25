@@ -9,7 +9,7 @@ Client Side: CovidWebApp, This project was generated with[Angular CLI] version 1
 DB: SQL With a connection to C# by EF in the CODE FIRST methodology.
 
 # Run App
-1. Run server code with VS 2022:
+1. Run server code with VS 2022,
 2. Create DB schema with 'NuGet Package Manager/package Manager Console' and run the command 'update-database' **Note : Defalt Project should be DAL**
   ![image]      (https://user-images.githubusercontent.com/116121959/197694234-4ed48578-3107-4724-aa41-5555d88c6108.png)
   ![image](https://user-images.githubusercontent.com/116121959/197694305-28df96da-7681-4241-9c22-fb01e4a48962.png)
