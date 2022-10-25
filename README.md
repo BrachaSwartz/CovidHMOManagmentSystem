@@ -6,7 +6,7 @@ Server side: CovidHMOManagmentSystem , .NEt 6.0 needed VS 2022 version
 
 Client Side: CovidWebApp, This project was generated with[Angular CLI] version 14.0.2
 
-DB: The connection build in SQL With a connection to C# by EF in the CODE FIRST methodology.
+DB: SQL With a connection to C# by EF in the CODE FIRST methodology.
 
 # Run App
 1. On VS 2022:
