@@ -95,7 +95,6 @@ export class ClientDetailsComponent implements OnInit, OnDestroy {
   }
 
   save() {
-    console.log('this.patientsForm', this.patientsForm)
     if (this.patientsForm.valid) {
       const client = this.patientsForm.value;
       client.vaccinationsClients = this.client.vaccinationsClients
